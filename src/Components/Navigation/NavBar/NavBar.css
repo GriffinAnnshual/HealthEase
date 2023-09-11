@@ -1,19 +1,13 @@
 .nav-container{
-<<<<<<< HEAD
     width:500px;
-=======
     width:600px;
->>>>>>> 6ccfc54ccefe33969422cc98df87f867e43b7cc1
     height: 60px;
     background-color:#FFC9C9;
     display: flex;
     align-items:flex-end;
-<<<<<<< HEAD
     justify-content: space-around;
     align-self: flex-end;
     margin-right: 30px;
-=======
     justify-content: space-evenly;
     align-self: flex-end;
->>>>>>> 6ccfc54ccefe33969422cc98df87f867e43b7cc1
 }
