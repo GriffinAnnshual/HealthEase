@@ -1,0 +1,20 @@
+.nav-btn{
+    color: #8A2C2C;
+    font-family: 'Montserrat', sans-serif;
+    font-size:20px;
+    font-weight:600;
+<<<<<<< HEAD
+    border:none;
+    background-color:#FFC9C9;
+    transition: opacity 0.25s;
+}
+.nav-btn:hover{
+    text-decoration: underline;
+    opacity: 0.8;
+}
+.nav-btn:active{
+    opacity: 0.4;
+=======
+    
+>>>>>>> 6ccfc54ccefe33969422cc98df87f867e43b7cc1
+}

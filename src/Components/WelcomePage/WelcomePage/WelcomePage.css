@@ -1,0 +1,13 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+.welcome-page{
+    background-color: #FFC9C9;
+    width:100%;
+    height: 100vh;
+<<<<<<< HEAD
+    display: flex;
+=======
+>>>>>>> 6ccfc54ccefe33969422cc98df87f867e43b7cc1
+}

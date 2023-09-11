@@ -1,0 +1,13 @@
+span{
+    text-decoration: underline;
+}
+p{
+  align-self: end;
+  cursor: pointer;
+}
+.register-text{
+    width:100%;
+    height: 10%;
+    display: flex;
+    flex-direction: column;
+}

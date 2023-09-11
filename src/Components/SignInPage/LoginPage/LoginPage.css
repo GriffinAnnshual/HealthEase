@@ -1,0 +1,13 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+.background {
+    background-image: url('./motherbackground.png'); 
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    min-height: 100vh;
+    position: relative;
+    
+}

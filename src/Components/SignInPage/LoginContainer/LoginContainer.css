@@ -1,0 +1,13 @@
+.login-container{
+    width:340px;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction:column;
+    float: right;
+    position: absolute;
+    right:150px;
+    top:300px;
+    
+}
